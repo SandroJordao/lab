@@ -1,0 +1,9 @@
+# O htdocs guarda vários projetos, cada um com o próprio repositório.
+# Este repositório versiona só o painel do localhost: ignora tudo e libera o que é dele.
+/*
+!/.gitignore
+!/index.php
+!/lab/
+
+# Backup do index antigo
+/lab/*.bak
